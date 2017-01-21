@@ -28,7 +28,7 @@
     ```
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
     ```
-- HTML5
+- HTML5  
     ```
     <!DOCTYPE html>
     ```
@@ -47,10 +47,10 @@
 - HTML
     - 言語仕様があいまい
         - タグや属性の大文字／小文字： どちらでも可
-        - 終了タグの省略： 省略しても OK
+        - 終了タグの省略： 省略しても OK
         - 属性の引用符（" "）の省略： 省略しても OK
         - 属性名と値が同じ場合の属性名の省略： 省略しても OK
-        - 空要素の扱い： スラッシュなし　<br>
+        - 空要素の扱い： スラッシュなし　<br>
 - XHTML
     - 言語仕様が厳密
         - タグや属性の大文字／小文字： 小文字のみ
