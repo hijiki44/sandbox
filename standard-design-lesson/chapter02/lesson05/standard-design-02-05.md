@@ -60,10 +60,10 @@
 - 段組み： 要素の内容を段組みにすることができる
 - アニメーション： 色の変化など、アニメーションが指摘できる
 - 複数背景： 背景画像を複数枚指定できる
-- 参考： https://ferret-plus.com/2502
+    - 参考： https://ferret-plus.com/2502
 
 ## CSS セレクタも追加された？
-- 参考： http://weboook.blog22.fc2.com/blog-entry-280.html
+- 参考： http://weboook.blog22.fc2.com/blog-entry-280.html  
 ※ 上記は CSS セレクタの他、便利サイトへのリンクが集められていて、有用な記事
 
 # CSS4 も準備中？
