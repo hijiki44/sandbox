@@ -18,6 +18,7 @@
 # Exercise02
 - Illustrator を活用したキャンペーンバナーの制作
     - Illustrator で形状を作成
+    - Photoshop でバナーを作成
 
 # 気になるサイト
 - LIQUID DESIGN： https://lqd.jp/
