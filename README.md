@@ -10,7 +10,7 @@
     - http://amzn.asia/9PzU5Bi （Amazon へのリンク）
 
 ## change-owner-on-google-drive について
-- GAS（Google Action Script）の個人学習の一環で作成したものをアップしています
+- GAS（Google Apps Script）の個人学習の一環で作成したものをアップしています
 - コードの内容について
     - Google ドライブ内の特定フォルダ配下のオーナーを変更します
     - コードを実行しているユーザがオーナーとなっているフォルダ、及び、ファイルに限り、オーナー変更が行えます
