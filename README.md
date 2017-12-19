@@ -20,3 +20,7 @@
 ## ruby-lessons について
 - 個人学習の一環で、ドットインストール「Ruby 入門」の写経をアップしています
     - https://dotinstall.com/lessons/basic_ruby_v3 （ドットインストールへのリンク）
+
+## rails-tutorial について
+- 個人学習の一環で、Ruby on Rails のチュートリアルの写経をアップしています
+    - https://railstutorial.jp/ （Ruby on Rails チュートリアル・実例を使って Rails を学ぼうへのリンク）
