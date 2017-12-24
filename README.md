@@ -22,5 +22,9 @@
     - https://dotinstall.com/lessons/basic_ruby_v3 （ドットインストールへのリンク）
 
 ## rails-tutorial について
-- 個人学習の一環で、Ruby on Rails のチュートリアルの写経をアップしています
+- 個人学習の一環で、Ruby on Rails のチュートリアルの演習の写経をアップしています
     - https://railstutorial.jp/ （Ruby on Rails チュートリアル・実例を使って Rails を学ぼうへのリンク）
+- 各アプリケーションの写経置き場
+    - hello： https://github.com/hijiki44/rails-tutorial-hello
+    - toy： https://github.com/hijiki44/rails-tutorial-toy
+    - sample： https://github.com/hijiki44/rails-tutorial-sample
