@@ -94,3 +94,32 @@
 
 ### 4. 上記の演習で作成したマイクロポストを削除してみましょう。
 - 削除できた
+
+## 2.3.2 マイクロポストをマイクロにする
+### 1. もう一度 Content に 141 文字以上を入力してみましょう。どのように振る舞いが変わったでしょうか。
+- エラーメッセージが表示されるようになった
+
+### 2. ブラウザの HTML インスペクター機能を使って、表示されたエラーメッセージを調べてみてください。
+- エラーメッセージは以下のとおり（画面上部、フィールド名、フィールドの順）
+
+```
+<div id="error_explanation">
+  <h2>1 error prohibited this micropost from being saved:</h2>
+
+  <ul>
+    <li>Content is too long (maximum is 140 characters)</li>
+  </ul>
+</div>
+```
+
+```
+<div class="field_with_errors">
+  <label for="micropost_content">Content</label>
+</div>
+```
+
+```
+<div class="field_with_errors">
+  <textarea id="micropost_content" name="micropost[content]">012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789</textarea>
+</div>
+```
