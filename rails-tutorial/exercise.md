@@ -64,7 +64,7 @@
 ### 4. 演習で作成したユーザーを削除してみてください。ユーザーを削除したとき、Rails はどんなメッセージを表示するでしょうか。
 - User was successfully destroyed.
 
-## 2.2.2
+## 2.2.2 MVC の挙動
 ### 1. /users/1/edit という URL にアクセスしたときの振る舞いについて図を書いてみてください。
 - 1: ブラウザから `users/1/edit` という URL のリクエストを Rails サーバに送信する
 - 2: `users/1/edit` リクエストは Rails router を経由して、Users コントローラ内の edit アクションに割り当てられる
